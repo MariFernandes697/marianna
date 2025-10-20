@@ -182,6 +182,9 @@
     section.inicio{
         padding-top: 180px; /* Aumenta o padding para compensar o header maior */
     }
+    .inicio .txt-inicio button{
+        display: none;
+    }
     .sobre-mim .img-sobre{
         display: none;
     }
@@ -203,4 +206,5 @@
         align-items: center;
         gap: 10px;
     }
+
 }
